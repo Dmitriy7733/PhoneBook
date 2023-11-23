@@ -1,0 +1,5 @@
+﻿-- Script Date: 21.11.2023 21:32  - ErikEJ.SqlCeScripting version 3.5.2.95
+CREATE TABLE [table_phonebooks] (
+  [Id] INTEGER NOT NULL
+, CONSTRAINT [PK_table_phonebooks] PRIMARY KEY ([Id])
+);
